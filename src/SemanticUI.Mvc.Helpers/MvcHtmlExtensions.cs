@@ -7,7 +7,7 @@ using System.Web.Mvc.Html;
 
 using System.Linq.Expressions;
 
-namespace SemanticUI.Helpers
+namespace SemanticUI.Mvc.Helpers
 {
     public static class MvcHtmlExtensions
     {
